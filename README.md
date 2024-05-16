@@ -1,0 +1,2 @@
+# .github
+Chainlink BlockMagic Hackathon
