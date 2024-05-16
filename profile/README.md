@@ -15,4 +15,4 @@ The use case that represents the functional requirements for the Dapp joining th
 
 #### Transaction Entity
 
-![Blockshield DataModel](https://github.com/Chainlink-Blockmagic/.github/blob/main/profile/blockshield_use_case.svg "Blockshield Data Model")
+![Blockshield DataModel](https://github.com/Chainlink-Blockmagic/.github/blob/main/profile/blockshield_data_model.svg "Blockshield Data Model")
