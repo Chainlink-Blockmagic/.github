@@ -10,3 +10,9 @@ The use case that represents the functional requirements for the Dapp joining th
 
 
 ### Data Model - Entities
+
+#### Asset Entity
+
+#### Transaction Entity
+
+![Blockshield DataModel](https://github.com/Chainlink-Blockmagic/.github/blob/main/profile/blockshield_use_case.svg "Blockshield Data Model")
